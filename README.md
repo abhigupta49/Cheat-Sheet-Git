@@ -1,5 +1,5 @@
 
-# Git Hub Commands
+# GitHub daily use Cheat Sheet
 
 Git is the free and open source distributed version control system that's responsible for everything GitHub related that happens locally on your system.
 
